@@ -1,2 +1,2 @@
 # scripts_bd
- triggers, procedures, functiones recursivas, varios
+ triggers, procedures, functiones recursivas, bucles, condicionales, etc
